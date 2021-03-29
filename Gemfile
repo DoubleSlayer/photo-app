@@ -9,6 +9,8 @@ gem 'rails', '~> 6.0.3', '>= 6.0.3.5'
 gem 'sqlite3', '~> 1.4'
 gem 'devise'
 gem 'devise-bootstrap-views', '~> 1.0'
+gem "font-awesome-rails"
+gem "hirb"
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
